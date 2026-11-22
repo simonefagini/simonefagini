@@ -9,4 +9,3 @@ Self-guided journey to research and investigate the applications of computer sci
 - [Fluo for Rhino](https://github.com/simonefagini/Fluo-for-Rhino): scripts and tools for Rhino and Grasshopper
 - [aperture](https://github.com/simonefagini/aperture): chess study tool with a board-recognition neural network that runs in the browser
 
-Website: [superfluo.cc](https://superfluo.cc)
